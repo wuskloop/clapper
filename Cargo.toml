@@ -1,0 +1,13 @@
+[package]
+name = "clapper"
+version = "0.1.0"
+edition = "2021"
+
+description = "A tool for develop command line program by rust."
+keywords = [
+    "command",
+    "cli",
+]
+
+[dependencies]
+anyhow = "1.0"
